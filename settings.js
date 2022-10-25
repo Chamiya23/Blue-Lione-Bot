@@ -55,9 +55,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94740014850'] //ur owner number
-global.ownername = "CHAMINDU" //ur owner name
-global.ytname = "YT: ." //ur yt chanel name
-global.socialm = "GitHub: CHAMINDU " //ur github or insta name
+global.ownername = "chamindu dewmina" //ur owner name
+global.ytname = "YT: CHAMINDU " //ur yt chanel name
+global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy
@@ -65,15 +65,15 @@ global.owner = ['94740014850'] //ur number
 global.ownertag = '94740014850' //ur tag number
 global.botname = '📶 CHAMINDU 📶' //ur bot name
 global.linkz = "." //your theme url which will be displayed on whatsapp
-global.websitex = "." //ur website to be displayed
-global.botscript = '.' //script link
+global.websitex = "https://www.youtube.com/" //ur website to be displayed
+global.botscript = 'https://www.youtube.com/' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "📶 Chamindu 📶" //ur sticker watermark packname
-global.author = "📶 Chamindu 📶" //ur sticker watermark author
+global.packname = "📶 CHAMINDU DEWMINA 📶" //ur sticker watermark packname
+global.author = "📶 CHAMINDU DEWMINA 📶" //ur sticker watermark author
 global.menumoji ="💖"
-global.menuimg = "https://thumbs.dreamstime.com/z/cloud-computing-technology-cute-robot-concept-d-rendering-graphic-display-213149387.jpg" //ur alive img link [https://i.ibb.co]
-global.alive = "https://mobcup.net/ringtone/hii-girl-voice-egtbow6c/download/m4r" //ur alive video or image link [github.com]
+global.menuimg = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fus.123rf.com%2F450wm%2Fginatra%2Fginatra2207%2Fginatra220700229%2F189109726-a-vector-illustration-of-golden-luxury-swoosh-initial-letter-c-logo-in-black-background-with-gold-sh.jpg%3Fver%3D6&imgrefurl=https%3A%2F%2Fwww.123rf.com%2Fstock-photo%2Fletter_c.html&tbnid=WcziCKYQxFnYjM&vet=12ahUKEwi256Gy3_v6AhVWktgFHc6ZDSUQMygyegQIARBA..i&docid=9SpUT1OprvhdNM&w=449&h=450&q=c%20images&ved=2ahUKEwi256Gy3_v6AhVWktgFHc6ZDSUQMygyegQIARBA" //ur alive img link [https://i.ibb.co]
+global.alive = "https://raw.githubusercontent.com/Nipuna-apps/Blue-Lion-Bot-V2/main/LioneMedia/video/Lione-bot.mp4" //ur alive video or image link [github.com]
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
@@ -81,7 +81,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94740014850'] //ur premium numbers
+global.premium = ['94714188730'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
